@@ -27,4 +27,5 @@ This repository contains demo code for the **fiisual assignment (Bonus)**. It in
 Simply open and run the Jupyter Notebook:
    ```bash
    jupyter notebook demo.ipynb
-Or, if you're using VSCode or another IDE, just open demo.ipynb and run all cells.
+   ```
+Or, if you're using VSCode or another IDE, just open `demo.ipynb` and run all cells.
