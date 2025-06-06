@@ -1,9 +1,8 @@
-import time
 import re
-from datetime import datetime
-from io import StringIO
-
+import time
 import pandas as pd
+from io import StringIO
+from datetime import datetime
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
